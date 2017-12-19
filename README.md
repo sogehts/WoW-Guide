@@ -1,1 +1,4 @@
-💰WoW Legion Gold Guide 💰 bis zu 70.000 Gold pro Stunde 💰 Farm dich Reich! 💰 💰 Flüchtige Luft
+💰 WoW Legion Gold Guide 💰 
+💰 10.000 bis 70.000 Gold pro Stunde 💰 
+💰 Flüchtige Luft 💰
+

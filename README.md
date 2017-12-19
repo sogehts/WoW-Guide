@@ -12,4 +12,5 @@ Werde euch mal erklären wie Ihr mit ein wenig Farmen, schnell Gold erhalten kö
 Es wird im Dungeon "Der Vortexgipfel" gefarmt.
 Die Instanz befindet sich auf der Map "Uldum"
 
-http://wow.gamona.de/wp-content/gallery/karten-nach-cataclysm/lage-vortexgipfel.jpg
+![Quelle:Gamona.de](http://wow.gamona.de/wp-content/gallery/karten-nach-cataclysm/lage-vortexgipfel.jpg)
+

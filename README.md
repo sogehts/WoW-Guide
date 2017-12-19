@@ -13,7 +13,7 @@ Es wird im Dungeon "Der Vortexgipfel" gefarmt.
 Die Instanz befindet sich auf der Map "Uldum"
 In der Instanz wird "Flüchtige Luft" gefarmt.
 
-![Quelle:Gamona.de](http://wow.gamona.de/wp-content/gallery/karten-nach-cataclysm/lage-vortexgipfel.jpg)
+![Uldum Map](Vortex.jpg)
 
 ### Was muss ich beachten?
 Wenn Ihr auf dem HC Mode die Instanz macht, farmt Ihr nur bis zum ersten Boss.
@@ -23,4 +23,4 @@ Ihr verlasst die Instanz und macht einen Dungeon Reset.
 Spielt Ihr allerdings auf "Normal" lohnt es sich bis zum zweiten Boss zu laufen, und ihn dann zu töten.
 Bei ein wenig Glück könnt Ihr ein Mount erhalten.
 
-![Quelle](http://www.wowhead.com/item=63040)
+![Mount](mount.jpg)

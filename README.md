@@ -24,3 +24,13 @@ Spielt Ihr allerdings auf "Normal" lohnt es sich bis zum zweiten Boss zu laufen,
 Bei ein wenig Glück könnt Ihr ein Mount erhalten.
 
 ![Mount](mount.jpg)
+
+### Wieso kaufen die Spieler Flüchtige Luft?
+Flüchtige Luft ist ein Item als älteren Addons von WoW. Das Item hat nicht so hohe drop Chance, und damals
+war es nicht so einfach das Item sich allein zu farmen.
+Jetzt wird das Item nicht so wirklich gebraucht, allerdings ist in WoW der Trend zu Transmog Items.
+Transmog Items werden von vielen Spielern gern gekauft, aber die meisten haben keine Lust sich alte Materialen 
+zu erfarmen und zahlen lieber einiges an Gold um die Items sich aus dem Auktionshaus zu kaufen.
+
+Wieviel Ihr im Endeffekt damit verdienen könnt hängt von eurem Server ab.
+Solltet Ihr noch Fragen haben könnt Ihr gerne einen Kommentar hinterlassen.

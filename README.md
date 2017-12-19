@@ -13,7 +13,7 @@ Es wird im Dungeon "Der Vortexgipfel" gefarmt.
 Die Instanz befindet sich auf der Map "Uldum"
 In der Instanz wird "Flüchtige Luft" gefarmt.
 
-![Uldum Map](Vortex.jpg)
+![Uldum Map](vortex.jpg)
 
 ### Was muss ich beachten?
 Wenn Ihr auf dem HC Mode die Instanz macht, farmt Ihr nur bis zum ersten Boss.
